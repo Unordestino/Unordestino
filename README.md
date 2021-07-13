@@ -30,7 +30,7 @@
  <div>
   <a href="https://github.com/Unordestino/Unordestino">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=unordestino&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&custom_title=My Github Stats"/>
-  <img height="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unordestino&layout=compact&langs_count=20&theme=blue-green&custom_title=My Most Used Languages (it's PHP)"/>
+  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unordestino&layout=compact&langs_count=20&theme=blue-green&custom_title=My Most Used Languages (it's PHP)"/>
 <div>
 
 
