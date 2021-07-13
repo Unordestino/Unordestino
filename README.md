@@ -26,11 +26,12 @@
   </a>
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/idavisilveira/">
-    <img width="350px"  <img src="https://github-readme-stats.vercel.app/api?username=unordestino&show_icons=true&theme=dracula" />
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unordestino&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
-  </a>&nbsp;&nbsp;
-   </a>
-</p>
 
+ <div>
+  <a href="https://github.com/Unordestino/Unordestino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unordestino&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&custom_title=My Github Stats"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unordestino&layout=compact&langs_count=20&theme=blue-green&custom_title=My Most Used Languages (it's PHP)"/>
+<div>
+
+
+![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
