@@ -26,4 +26,9 @@
   </a>
 </p>
 
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=unordestino&show_icons=true&theme=dracula)
+<p align="center">
+<a href="https://www.linkedin.com/in/idavisilveira/">
+    <img src="https://github-readme-stats.vercel.app/api?username=unordestino&show_icons=true&theme=dracula" />
+  </a>&nbsp;&nbsp;
+   </a>
+</p>
