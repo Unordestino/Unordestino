@@ -28,13 +28,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/idavisilveira/">
-    <img src="https://github-readme-stats.vercel.app/api?username=unordestino&show_icons=true&theme=dracula" />
+    <img width="350px"  <img src="https://github-readme-stats.vercel.app/api?username=unordestino&show_icons=true&theme=dracula" />
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unordestino&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
   </a>&nbsp;&nbsp;
    </a>
 </p>
 
-<p align="center">
-    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=unordestino&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
-  </a>&nbsp;&nbsp;
-   </a>
-</p>
