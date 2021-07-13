@@ -26,4 +26,4 @@
   </a>
 </p>
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=unordestino&show_icons=true&theme=dracula)
+![David GitHub stats](https://github-readme-stats.vercel.app/api?username=unordestino&show_icons=true&theme=dracula)
