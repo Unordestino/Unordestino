@@ -1,30 +1,15 @@
- <h1 align='center'>
-  Olá 👋 meu nome é David 👨‍💻
-</h1>
+## Olá, meu nome é: Davi Souza
+### Ciencias da computação.
+### Estudando:
 
-
-### Meus contatos :call_me_hand:
-<p align="center">
-  <a href="https://www.linkedin.com/in/idavisilveira/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href = "mailto: hapck17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                   target="_blank">
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Unordestino">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a href="https://discord.gg/zXuKuu9">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/rei._davi/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   </a>&nbsp;&nbsp;
-  <a href="https://api.whatsapp.com/send?phone=5585986278161&text=&source=&data=&app_absent=">
-    <img src="https://img.shields.io/badge/whatsapp-00FA9A?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  </a>
-</p>
+### Minhas redes sociais:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-farias-10/)](https://www.linkedin.com/in/idavisilveira/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com//murilofarias10/)](https://github.com/Unordestino)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=)](https://www.facebook.com/dvbiotec/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC4vvTn8ZUJKv0k_JY-WEnUg)](https://www.youtube.com/channel/UCgK4h8kV3RBWict0L6uzFAw)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dav1_souza/)](https://www.instagram.com/dav1_souza/)
+[![Github Whatsapp](https://img.shields.io/badge/whatsapp-00FA9A?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://murilo-farias.netlify.app/)](https://api.whatsapp.com/send?phone=5585986278161&text=&source=&data=&app_absent=)
+[![Github Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://murilo-farias.netlify.app/)](https://discord.gg/zXuKuu9)
 
 
  <div>
