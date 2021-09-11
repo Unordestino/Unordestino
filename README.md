@@ -53,5 +53,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
     
 </div>
  
-
 ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  Quantidade de visitas no meu perfil desde: 12/09/2021 🕵️ <br></p>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Unordestino/count.svg" /></p>
+<p align="center">
+Obrigado e volte sempre 😄
+</p>
