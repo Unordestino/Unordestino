@@ -19,17 +19,18 @@
 [![Github Whatsapp](https://img.shields.io/badge/whatsapp-00FA9A?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://murilo-farias.netlify.app/)](https://api.whatsapp.com/send?phone=5585986278161&text=&source=&data=&app_absent=)
 [![Github Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://murilo-farias.netlify.app/)](https://discord.gg/zXuKuu9)
 
+### Atividades do Gihub
+<p align="left">
+  <a href="https://github.com/unordestino?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/unordestino"/></a>
+  <a href="https://github.com/unordestino?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/unordestino?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/unordestino">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=unordestino&style=for-the-badge"/></a>
+</p>
  
 ### Minhas informações aqui no GitHub:
 ![Status](https://github-readme-stats.vercel.app/api?username=unordestino&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&custom_title=My%20Github%20Stats) 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=unordestino&layout=compact&langs_count=20&theme=blue-green&custom_title=My%20Most%20Used%20Languages%20)](https://github.com/Unordestino/github-readme-stats)
  
 ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-  Quantidade de visitas no meu perfil desde: 12/09/2021 🕵️ <br></p>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Unordestino/count.svg" /></p>
-<p align="center">
-Obrigado e volte sempre 😄
-</p>
