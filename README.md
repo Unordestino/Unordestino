@@ -19,7 +19,7 @@
 ![Github Java](https://img.shields.io/badge/Java-FF0000?style=style=flat-square&logo=java&logoColor=white)
 
 
-### Minhas redes sociais <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="10px">
+### Social Networks <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="10px">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Unordestino)](https://github.com/Unordestino)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idavisilveira/)](https://www.linkedin.com/in/idavisilveira/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&l&logo=facebook&logoColor=white&link=)](https://www.facebook.com/dvbiotec/)
@@ -28,7 +28,7 @@
 [![Github Whatsapp](https://img.shields.io/badge/whatsapp-00FA9A?style=flat-square&l&logo=whatsapp&logoColor=white&link=https://murilo-farias.netlify.app/)](https://api.whatsapp.com/send?phone=5585986278161&text=&source=&data=&app_absent=)
 [![Github Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&l&logo=discord&logoColor=white&link=https://murilo-farias.netlify.app/)](https://discord.gg/zXuKuu9)
 
-### Atividades do Gihub <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="10px">
+### Gihub Activities <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="10px">
   
 <p align="left">
   <a href="https://github.com/unordestino?tab=repositories&sort=stargazers">
