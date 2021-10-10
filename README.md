@@ -1,8 +1,8 @@
-<img style = "margin-top: 30px;" align="right" width = "width" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 # <a href="https://www.linkedin.com/in/idavisilveira/">Hello World, I am Davi  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px"><a/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&vCenter=true&lines=My+name+is+Davi%2C+I+am+22+years+old+)](https://git.io/typing-svg)
+<img style = "margin-top: 30px;" align="right" width = "width" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 - 💻 Web Developer
 - :mortar_board: Computer Science
