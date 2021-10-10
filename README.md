@@ -2,8 +2,7 @@
 
 # <a href="https://www.linkedin.com/in/idavisilveira/">Hello World, I am Davi  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px"><a/>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+name+is+Davi%2C+I+am+22+years+old+)](https://github.com/Unordestino/Unordestino/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&lines=My+name+is+Davi%2C+I+am+22+years+old+)](https://github.com/Unordestino/Unordestino/)
 
 - 💻 Web Developer
 - :mortar_board: Computer Science
