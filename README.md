@@ -1,7 +1,7 @@
 
-# <a href="https://www.linkedin.com/in/idavisilveira/">Hello World, I am Davi  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px"><a/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=My+name+is+Davi%2C+I+am+23+years+old+)](https://github.com/Unordestino/Unordestino/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=My+name+is+Davi%2C+I+am+22+years+old+)](https://github.com/Unordestino/Unordestino/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
+   <a href="https://www.linkedin.com/in/idavisilveira/">  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px"><a/>
   
 <img style = "margin-top: 30px;" align="right" width = "width" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
